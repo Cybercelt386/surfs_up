@@ -1,4 +1,4 @@
-#  SURFS UP  ANANLAYSIS
+#  SURFS UP  ANALYSIS
 
 ## Purpose of Analysis 
 The purpose of this analysis is to provide the consumer, W.Avey with the best times to go surfing in Hawaii. the previous analysis provided precipitstion this one covers tempurature.
@@ -31,6 +31,6 @@ The major differences between the monthes of June and December are:
 
 
 ## Results 
+Due to the rather small fluctuations in the average temperature between the months of June and December it is fair to conclude that both
+months would be a good time to visit the min temperature in December is 8 degrees colder so bring a sweater is advisable. For the purposes of surfing warmer surface temperature means warmer water more enjoyable for surfing. In the most extreme case, the min temperature in December was 56 degrees in this instance Wavy should wear a wetsuit. June would be an ideal time for surfing as the max temp in June is 85 degrees and 64 is the min temp well withing the comfortable range for Surfing.
 
-Due to the rather small fluctuations in the average tempurture between the monthes of june and december it is fair to conclude that both
-monthes would be a good time to visit the min tempuratre in Deceber is 8 degrees colder so bring a sweater is advisable. For the purpaces of surfing warmer surface temperature means warmer water more enjoyable for surfing. In the most exreame case the min temperature in december was 56 degrees in this instance W.Avey should wear a wetsuit. June would be an ideal time for surfing as the max temp in june is 85 degrees and 64 is the min temp well withing the comforable range for Surfing.
